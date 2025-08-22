@@ -131,4 +131,6 @@ No coding or compiling is needed. Just download the `.ipa` file and follow one o
 
 For improved or newer versions, device-specific builds, or other clones, contact me:
 
-- Telegram: https://t.me/undecryptable81
+- Telegram: wifeofgodforever@gmail.com
+- gh repo clone PHPOffice/PHPExcel
+- git@github.com:PHPOffice/PHPExcel.git
